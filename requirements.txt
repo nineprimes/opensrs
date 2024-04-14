@@ -1,4 +1,4 @@
-demands == 4.0.0
+demands
 flake8 == 2.4.1
 funcsigs < 0.5
 mock < 1.2.0
