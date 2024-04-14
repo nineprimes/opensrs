@@ -2,5 +2,5 @@ demands
 flake8 == 2.4.1
 funcsigs < 0.5
 mock < 1.2.0
-nose < 2.0.0
+nose-py3
 python-dateutil == 2.5.3
