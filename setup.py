@@ -16,7 +16,7 @@ setup(
     author="Yola",
     author_email="engineers@yola.com",
     license="MIT (Expat)",
-    url=metadata["url"],
+    url="https://github.com/yola/opensrs",
     packages=find_packages(),
     install_requires=[
         "demands",
